@@ -3,5 +3,5 @@
 ## Compilation
 
 ```bash
-g++ -std=c++17 pi_monte_carlo.cpp -o pi_mc -lm
+clang++ -std=c++17 pi_monte_carlo.cpp -o pi_mc
 ./pi_mc
